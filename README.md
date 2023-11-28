@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-| Favorite| Movies |
+| Series| Movies |
 | ----------- | ----------- |
-| One piece movies | Detective Conan |
-| Jujutsu Kaisen | Demon Slayer |
+| Detective Conan |One piece movies  |
+| Jujutsu Kaisen | Demon Slayer movies |
